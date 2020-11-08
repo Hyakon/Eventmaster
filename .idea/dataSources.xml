@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails EventBrite: development" uuid="a5698476-0de1-4e6d-8f06-ec3ddc224387">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/EventBrite_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails EventBrite: test" uuid="9270ba23-8607-4d41-9d7f-588c9044ad25">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/EventBrite_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails EventBride: test" uuid="f9ad7a6c-a2ab-4a1e-ad47-efa0fd67ebc3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/../../week4/EventBride/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/EventBride_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails EventBrite: production" uuid="0a18ab1c-578b-4902-9eac-e3a6618ce911">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/EventBrite_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails EventBride: production" uuid="4ee5b895-ce24-45b5-951b-dddd43b5d88e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/../../week4/EventBride/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/EventBride_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails EventBride: development" uuid="d6a54f44-13de-4fc4-a884-38eff397e16c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/../../week4/EventBride/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/EventBride_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
